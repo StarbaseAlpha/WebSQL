@@ -1,0 +1,26 @@
+{
+  "name": "@starbase/websql",
+  "version": "0.0.1",
+  "description": "Starbase WebSQL Datastore",
+  "main": "websql.js",
+  "browser":"websql.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbasealpha/websql.git"
+  },
+  "keywords": [
+    "websql",
+    "sql",
+    "datastore",
+    "starbase"
+  ],
+  "author": "Mike Fuller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starbasealpha/websql/issues"
+  },
+  "homepage": "https://github.com/starbasealpha/websql#readme"
+}
